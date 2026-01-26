@@ -1,8 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Gaurav Agarwal"<<endl;
-    cout<<"BETN1AI25099"<<endl;
     int i,sum=0, number;
     cout<<"Enter the Positive Integer:";
     cin>>i;
